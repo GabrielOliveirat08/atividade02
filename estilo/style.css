@@ -1,0 +1,135 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'poppins', sans-serif;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    margin-top: 30px;
+}
+#form-incricao{
+    width: 300px;
+    margin: 0 auto;
+}
+#form-inscricao label {
+    display: block;
+    margin-top: 15px;
+}
+#form-inscricao button {
+  margin-top: 20px;     
+  width: 10%;
+  padding: 10px 20px;
+  border: none;
+  display: block;
+  border-radius: 5px;
+  background-color: #d9d7d7;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  transition: background 0.3s;
+}
+#form-inscricao button:hover {
+    background-color: #a7a6a6;
+}
+label {
+    margin-top: 5px;
+}
+input {
+    margin-top: 5px;
+    width: 30%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+}
+#nivel {
+    position: relative;
+    margin-right: 30px;
+}   
+#validarSenha {
+    margin-top: 40px;
+}
+#validarSenha label {
+    display: block;
+    margin-top: 5px;
+}
+#validarSenha button {
+  margin-top: 20px;     
+  width: 10%;
+  padding: 10px 20px;
+  border: none;
+  display: block;
+  border-radius: 5px;
+  background-color: #d9d7d7;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  transition: background 0.3s;
+}
+#validarSenha button:hover {
+    background-color: #a7a6a6;
+}
+#validarPreenchimento button {
+  margin-top: 20px;     
+  width: 10%;
+  padding: 10px 20px;
+  border: none;
+  display: block;
+  border-radius: 5px;
+  background-color: #d9d7d7;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  transition: background 0.3s;
+}
+#validarPreenchimento button:hover{
+    background-color: #a7a6a6;
+}
+
+#promocao label{
+    display: block;
+    margin-top: 5px;
+}
+#validarPreenchimento label {
+    display: block;
+    margin-top: 5px;
+}
+#promocao button {
+  margin-top: 20px;     
+  width: 10%;
+  padding: 10px 20px;
+  border: none;
+  display: block;
+  border-radius: 5px;
+  background-color: #d9d7d7;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  transition: background 0.3s;
+}
+#promocao button:hover{
+    background-color: #a7a6a6;
+}
+hr {
+    border: 2px solid ;
+}
+.caixaH1 {
+  background-color: white;
+  padding: 20px;
+  width: 300px;
+  margin: 20px auto; 
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+
+
